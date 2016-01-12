@@ -1,0 +1,22 @@
+body {
+  background-color: #333;
+  font-family: "helvetica neue", helvetica, sans-serif;
+  font-size: 16px;
+  overflow: hidden;
+}
+
+.control {
+  width: 100px;
+  background: #f90;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  font-weight: bold;
+  color: #fff;
+  cursor: pointer;
+}
+
+.control:hover {
+  background: #e80;
+  color: #000;
+}
